@@ -1,3 +1,3 @@
-## Welcome to the webpage of the book Behavior Trees in Robotics and AI: An Introduction.
+## Index
 
 ### This Page is under construction.
