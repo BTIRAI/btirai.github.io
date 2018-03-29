@@ -99,5 +99,5 @@ NOTE: A BT must have the root node. It cannot have loose nodes (non-connected no
 
 
 <h2><a id="youbot">Youbot (Ubuntu only)</a></h2>
-<h2><a id="youbot">Download a ready-to-use Virtual Machine</a></h2>
+<h2><a id="virtual">Download a ready-to-use Virtual Machine</a></h2>
 We prepared for you a virtual machine ready to use. Due to virtual graphic card's constraint the execution of the Youbot example may be very slow.
