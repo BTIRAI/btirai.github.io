@@ -1,9 +1,6 @@
 # Tutorials
 Here we will show how to download and run the Behavior Trees of example.
-<button onclick="myFunction()">Try it</button>
 <h2><a id="pacman">Pac-Man</a></h2>
-<div id="myDIV">
-
 
 ## Installation in Windows
 ------------
@@ -95,7 +92,6 @@ Enjoy
 
 NOTE: A BT must have the root node. It cannot have loose nodes (non-connected nodes).
 
-</div>
 
 
 
@@ -104,21 +100,5 @@ NOTE: A BT must have the root node. It cannot have loose nodes (non-connected no
 We prepared for you a virtual machine ready to use. Due to virtual graphic card's constraint the execution of the Youbot example may be very slow.
 
 
-
-
-
-
-
-
-<script>
-function myFunction() {
-    var x = document.getElementById("myDIV");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-</script>
 
 
