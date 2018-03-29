@@ -101,3 +101,27 @@ NOTE: A BT must have the root node. It cannot have loose nodes (non-connected no
 <h2><a id="youbot">Youbot (Ubuntu only)</a></h2>
 <h2><a id="virtual">Download a ready-to-use Virtual Machine</a></h2>
 We prepared for you a virtual machine ready to use. Due to virtual graphic card's constraint the execution of the Youbot example may be very slow.
+
+
+<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<div id="myDIV">
+This is my DIV element.
+</div>
+
+<p><b>Note:</b> The element will not take up any space when the display property set to "none".</p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+
