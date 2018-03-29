@@ -4,7 +4,7 @@ Here we will show how to download and run the Behavior Trees of example.
 <h2><a id="pacman">Pac-Man</a></h2>
 
 
-Installation in Windows
+## Installation in Windows
 ------------
 1) Install Dependencies:
 
@@ -20,7 +20,7 @@ Download and install [python3 for Windows](http://docs.python-guide.org/en/lates
 Run Cmake, set the project (pacmanBT) root folder and the desired build folder (your choice). Configure and generate project solution for your favorite IDE (e.g. Visual Studio 13). Then open the solution from your IDE and build the project.
 
 
-Run in Windows
+## Run in Windows
 ------------
 
 In a terminal, go to the build directory of the project and then run the following commands:
@@ -33,7 +33,7 @@ Alternatively, run the executable behavior_tree_editor.exe from File Explorer
 
 
 
-Installation in Unix
+## Installation in Unix
 ------------
 1) Install Dependencies:
 
@@ -53,7 +53,7 @@ Run in a terminal the following commands:
 `cmake ..` <br/>
 `make`
 
-Run in Unix
+## Run in Unix
 ------------
 
 Run in a terminal the following commands:
@@ -68,7 +68,7 @@ Run in a terminal the following commands:
 
 
 
-Verify your installation
+## Verify your installation
 ------------
 -In the BT editor: File->Load  <br/>
 -Browse in the folder pacmanBT (the one you retrieved in step 2)  <br/>
@@ -85,7 +85,7 @@ Verify your installation
 -Enjoy
 
 
-Create your Behavior Tree
+## Create your Behavior Tree
 ------------
 
 Right Click in the editor to add a node. 
