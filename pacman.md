@@ -1,3 +1,10 @@
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 # Tutorial for Pac-Man Example
 Here you will find the instructions to run the Pac-Man example of [Chapter 2](). You will be able to design the AI of the Pac-Man game designing your own Behavior Tree (BT) via a Graphical User Interface (GUI).
 
