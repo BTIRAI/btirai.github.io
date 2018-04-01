@@ -92,7 +92,7 @@ Run in a terminal the following commands:
 -Enjoy
 
 
-## Create your Behavior Tree
+## Create your own Behavior Tree
 ------------
 
 Right Click in the editor to add a node. 
