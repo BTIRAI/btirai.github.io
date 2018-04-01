@@ -1,5 +1,5 @@
 # Tutorial for Pac-Man Example
-Here you will find the instructions to run the Pac-Man example of [Chapter 2]. You will be able to design the AI of the Pac-Man game designing your own Behavior Tree (BT) via a Graphical User Interface (GUI).
+Here you will find the instructions to run the Pac-Man example of [Chapter 2](). You will be able to design the AI of the Pac-Man game designing your own Behavior Tree (BT) via a Graphical User Interface (GUI).
 
 ![scenario_pacman](https://user-images.githubusercontent.com/8132627/38174301-537686d8-35cb-11e8-8e6d-4b82c8901376.png)
 
