@@ -101,6 +101,10 @@ The nodes have the following meanings:
 |Name| Type|Description|
 |---|---|---|
 |isGhostClose|Condition| XXX
+{: .tablelines}
+
+
+
 Press Play to run the BT
 Enjoy
 
