@@ -1,3 +1,10 @@
+# Tutorial for Pac-Man Example
+Here you will find the instructions to run the Pac-Man example of [Chapter 2]. You will be able to design the AI of the Pac-Man game designing your own Behavior Tree (BT) via a Graphical User Interface (GUI).
+
+
+
+Below you can find the instructions according to your operating system.
+
 ## Installation in Windows
 ------------
 1) Install Dependencies:
