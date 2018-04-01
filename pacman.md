@@ -76,8 +76,7 @@ Run in a terminal the following commands:
 -Select the file pacmantree.xml  <br/>
 -A BT should appear in the editor, as in the picture below: <br/>
 
-![alt tag](https://github.com/miccol/pacmanBT/blob/master/ScreenWindows.jpg)
-
+![screenwindows](https://user-images.githubusercontent.com/8132627/38174356-7277665a-35cc-11e8-8fd3-99feb36598e1.jpg)
 
 
 
