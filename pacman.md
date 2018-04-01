@@ -89,6 +89,11 @@ Run in a terminal the following commands:
 ------------
 
 Right Click in the editor to add a node. 
+The nodes have the following meanings:
+
+|Name| Type|Description|
+|---|---|---|
+|isGhostClose|Condition| XXX
 Press Play to run the BT
 Enjoy
 
