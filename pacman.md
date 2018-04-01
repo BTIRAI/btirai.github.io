@@ -81,7 +81,7 @@ Run in a terminal the following commands:
 
 
 
--Press the Play <img src="https://github.com/miccol/pacmanBT/blob/master/bt_editor/qt_nodeditor/resources/play.png" width="15" height="15"> icon. <br/>
+-Press the Play <img src="https://user-images.githubusercontent.com/8132627/38174387-df1de3a6-35cc-11e8-9a4f-c3ff40bffe83.png" width="15" height="15"> icon. <br/>
 -Enjoy
 
 
