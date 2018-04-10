@@ -6,7 +6,7 @@ We prepared for you a virtual machine ready to use. Due to virtual graphic card'
 If you are having any problem in installing or running the tutorials, please submit an [issue](https://github.com/BTIRAI/btirai.github.io/issues).
 
 ## [Pac-Man](pacman)
-## [Youbot (Ubuntu only)](youbot)</a></h2>
+## [Youbot](youbot)</a></h2>
 ## [Download a ready-to-use Virtual Machine](virtual)</a></h2>
 
 
