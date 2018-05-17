@@ -1,7 +1,7 @@
 # Home
-
+![](https://images.tandf.co.uk/common/jackets/amazon/978113859/9781138593732.jpg)
 Welcome to the webpage of the book Behavior Trees in Robotics and AI: An Introduction. A book by Michele Colledanchise and Petter Ögren.
-Please use the menu to navigate thought the site's content.
+Please use the menu to navigate throught the site's content.
 
 ### About the Book 
 The book is published with CRC Press - Taylor and Francis group. 
