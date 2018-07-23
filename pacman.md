@@ -92,7 +92,8 @@ Run in a terminal the following commands:
 -Enjoy
 
 
-## Create your own Behavior Tree
+
+# Create your own Behavior Tree
 ------------
 
 Right Click in the editor to add a node. 
@@ -100,7 +101,14 @@ The nodes have the following meanings:
 
 |Name| Type|Description|
 |---|---|---|
-|isGhostClose|Condition| XXX
+|IsGhostClose|Condition| Returns Success if the a ghost is close. Failure otherwise.
+|IsClosestGhostScared|Condition| Returns Success if the the closes ghost is scared. Failure otherwise.
+|Greedy|Action| Moves to the next position that has a pill.
+|ClosestDotSearch|Action| Moves in the direction of the closest pill.
+|Chase|Action| Moves in the direction of the closest ghost.
+|KeepDistance|Action| Moves to a position that maximize the distance with the ghosts.
+|Escape|Action| Moves to a position that maximize the distance with the closest ghost.
+
 {: .tablelines}
 
 
