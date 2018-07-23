@@ -109,9 +109,6 @@ The nodes have the following meanings:
 |KeepDistance|Action| Moves to a position that maximize the distance with the ghosts.
 |Escape|Action| Moves to a position that maximize the distance with the closest ghost.
 
-{: .tablelines}
-
-
 
 Press Play to run the BT
 Enjoy
