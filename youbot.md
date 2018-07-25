@@ -119,4 +119,5 @@ You can add new objects in the scene in VREP, make sure you put in the text fiel
 
 - Press the Play <img src="https://user-images.githubusercontent.com/8132627/38174387-df1de3a6-35cc-11e8-9a4f-c3ff40bffe83.png" width="15" height="15"> icon. <br/>
 - Enjoy
-NOTE: A BT must have the root node. It cannot have loose nodes (non-connected nodes).
+
+** NOTE: A BT must have the root node. It cannot have loose nodes (non-connected nodes). **
