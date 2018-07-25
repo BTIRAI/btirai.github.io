@@ -35,7 +35,7 @@ Run CMake, set the project (youbot) root folder and the desired build folder (yo
 1) Install Dependencies:
 
 - Type in a terminal `sudo apt-get install build-essential libgl1-mesa-dev python3-tk qtdeclarative5-dev`
-- Download and extract [vrep **version 3.2.3**](http://www.coppeliarobotics.com/previousversions.html)
+- Download and extract [vrep **preferably version 3.2.3**](http://www.coppeliarobotics.com/previousversions.html)
 
 
 2) Download the repository:
