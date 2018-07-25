@@ -3,7 +3,6 @@
 
 
 [Michele Colledanchise](http://www.michelecolledanchise.com) is currently a postdoctoral researcher in the iCub Facility at the Italian Institute of Technology, Genoa, Italy. 
-
 He received his Ph.D. degree in computer science from the Royal Institute of Technology (KTH), Stockholm, Sweden, in 2017. In the spring of 2016, he visited the Control and Dynamical Systems, Californa Institute of Technology (Caltech), Pasadena, CA.
 His research interests include control systems, control architectures, and automated planning, with a strong focus on robotic applications.
 
