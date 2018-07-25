@@ -9,7 +9,7 @@ If you are having any problem in installing or running the tutorials, please sub
 ![Pac-Man](https://user-images.githubusercontent.com/8132627/38174301-537686d8-35cb-11e8-8e6d-4b82c8901376.png)
 
 ## [Youbot](youbot)
-![image](https://user-images.githubusercontent.com/8132627/42953697-49d08736-8b7b-11e8-81e4-6bdb39328743.png)
+![Youbot](https://user-images.githubusercontent.com/8132627/42953697-49d08736-8b7b-11e8-81e4-6bdb39328743.png)
 
 
 
