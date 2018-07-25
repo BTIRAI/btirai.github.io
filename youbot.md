@@ -1,5 +1,5 @@
 # Tutorial for Youbot Example
-Here you will find the instructions to run the Youboy example of [Chapter 2](). You will be able to design the AI of the robot designing your own Behavior Tree (BT) via a Graphical User Interface (GUI).
+Here you will find the instructions to run the Youbot example of [Chapter 2](https://www.researchgate.net/publication/319463746_Behavior_Trees_in_Robotics_and_AI_An_Introduction). You will be able to design the AI of the robot designing your own Behavior Tree (BT) via a Graphical User Interface (GUI).
 
 ![scenario_youbot](https://user-images.githubusercontent.com/8132627/42953697-49d08736-8b7b-11e8-81e4-6bdb39328743.png)
 
