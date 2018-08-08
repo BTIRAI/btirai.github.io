@@ -8,7 +8,7 @@ Please use the menu to navigate throught the site's content.
 The book is published by CRC Press - Taylor and Francis group. 
 
 You can buy a copy on the [CRC Press Store](https://www.crcpress.com/Behavior-Trees-in-Robotics-and-Al-An-Introduction/Colledanchise-Ogren/p/book/9781138593732) or on Amazon (e.g. [Amazon.com](https://www.amazon.com/Behavior-Trees-Robotics-Introduction-Intelligence/dp/1138593737)).<br>
-You can download for **free** the non-commercial preprint [here](https://arxiv.org/abs/1709.00084).
+You can download, for **free**, the non-commercial preprint [here](https://arxiv.org/abs/1709.00084).
 
 
 ### About this website
