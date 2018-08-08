@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123596189-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123596189-1');
+</script>
+
+
 # Home
 <img align="right" src="https://images.tandf.co.uk/common/jackets/amazon/978113859/9781138593732.jpg" height="400" />
 
