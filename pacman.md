@@ -21,7 +21,7 @@ Below you can find the instructions according to your operating system.
 - Download and install [python3 for Windows](http://docs.python-guide.org/en/latest/starting/install3/win/)<br/>
 2) Download the repository:
 
-`git clone https://github.com/miccol/pacmanBT.git`
+`git clone https://github.com/btirai/pacman.git`
 
 3) Build the Software:
 
@@ -53,7 +53,7 @@ Alternatively, run the executable pacman_behavior_tree_editor.exe from File Expl
 
 Run in a terminal the following commands:
 
-`cd pacmanBT` <br/>
+`cd pacman` <br/>
 `mkdir build` <br/>
 `cd build` <br/>
 `cmake ..` <br/>
